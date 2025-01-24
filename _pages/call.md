@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /submissions/
-title: Call for Papers
-description: Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
+title: Potential Call for Papers
+description: This is a potential plan for the Call for Papers. We will adjust the details upon the acceptance of the workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
 nav_order: 3
 ---
@@ -34,7 +34,7 @@ To ensure your submission is considered, please adhere to the following guidelin
 - **Formatting Instructions**:
   All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity. We accept extended abstracts (2-4 pages) or full research papers (up to 8 pages). We also encourage submission of live demos and working systems (up to 2 pages). All accepted papers will appear on the workshop website. The paper version should be a paper in pdf standard IEEE format. Accepted paper will be made available on the website, and authors will be invited to give a presentation and present their work.
 
-To submit your work, please visit the **[OpenReview](https://openreview.net/group?id=ICML.cc/2024/Workshop/SPIGM)**.
+We plan to use OpenRewiew for submission and review. Please stay tuned for more details.
 
 ## Questions
 

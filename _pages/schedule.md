@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
-description: This workshop will be held in-person at IROS 2025 at the International Expo Center, Hangzhou, China on October 19th 2025. The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone, China Standard Time (CST), can be found below.
+title: Potential Schedule
+description: This is a potential plan for the schedule, and will be adapted upon acceptance of the workshop. This workshop will be held in-person at IROS 2025 at the International Expo Center, Hangzhou, China on October 19th 2025. The session will cover invited talks, contributed talks, posters, and a panel discussion. The schedule in local time zone, China Standard Time (CST), can be found below.
 # <b>(Click the talks to see their abstracts)</b>
 nav: true
 nav_order: 2
