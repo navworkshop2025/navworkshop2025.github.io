@@ -1,6 +1,6 @@
 ---
 layout: workshop
-title: About
+title: Workshop
 permalink: /
 subtitle:
 
